@@ -32,7 +32,7 @@
     </g>
 
     <g font-family="'Fira Code', Consolas, monospace" font-size="18">
-      <text x="190" y="78"><tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9"> echo </tspan><tspan fill="#a5d6ff">"Thanks for visiting!"</tspan></text>
+      <text x="190" y="78"><tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9"> echo </tspan><tspan fill="#a5d6ff">"Thanks for checking my profile !"</tspan></text>
       <text x="190" y="108"><tspan fill="#ff7b72">return</tspan><tspan fill="#c9d1d9"> 0; </tspan><tspan class="cursor2" fill="#58a6ff">&#9615;</tspan></text>
     </g>
   </g>
