@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130">
+  <defs>
+    <clipPath id="footClip">
+      <rect x="0" y="0" width="900" height="130" rx="16"/>
+    </clipPath>
+    <style>
+      .cursor2 { animation: blink2 1s steps(1) infinite; }
+      @keyframes blink2 { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="130" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <g clip-path="url(#footClip)">
+    <circle cx="28" cy="26" r="6" fill="#ff5f56"/>
+    <circle cx="48" cy="26" r="6" fill="#ffbd2e"/>
+    <circle cx="68" cy="26" r="6" fill="#27c93f"/>
+    <rect x="375" y="12" width="150" height="26" rx="6" fill="#161b22"/>
+    <text x="450" y="30" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="#8b949e">exit.c</text>
+    <line x1="0" y1="46" x2="900" y2="46" stroke="#21262d" stroke-width="1"/>
+
+    <!-- subtle rain for cohesion -->
+    <g font-family="Consolas, monospace" font-size="13" fill="#39d353" opacity="0.15">
+      <text x="60" y="0">
+        <tspan x="60" dy="16">01</tspan><tspan x="60" dy="16">&#960;</tspan><tspan x="60" dy="16">10</tspan><tspan x="60" dy="16">&#8721;</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,-60" to="0,150" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <text x="830" y="0">
+        <tspan x="830" dy="16">10</tspan><tspan x="830" dy="16">&#955;</tspan><tspan x="830" dy="16">01</tspan><tspan x="830" dy="16">&#8734;</tspan>
+        <animateTransform attributeName="transform" type="translate" from="0,-120" to="0,150" dur="9s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <g font-family="'Fira Code', Consolas, monospace" font-size="18">
+      <text x="190" y="78"><tspan fill="#7ee787">$</tspan><tspan fill="#c9d1d9"> echo </tspan><tspan fill="#a5d6ff">"Thanks for visiting!"</tspan></text>
+      <text x="190" y="108"><tspan fill="#ff7b72">return</tspan><tspan fill="#c9d1d9"> 0; </tspan><tspan class="cursor2" fill="#58a6ff">&#9615;</tspan></text>
+    </g>
+  </g>
+</svg>
