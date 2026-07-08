@@ -1,30 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/29806642/README.2.md)<!--
-  ============================================
-  QUICK SETUP CHECKLIST — do this before you publish
-  ============================================
-  1. Create a PUBLIC repo named exactly YOUR-USERNAME/YOUR-USERNAME
-     (same as your GitHub username). GitHub auto-shows its README on
-     your profile page.
-  2. Upload the three custom SVGs into an "assets" folder in that repo:
-       assets/header.svg
-       assets/divider.svg
-       assets/footer.svg
-     (all three were generated alongside this file — just keep the
-     same names/folder, or update the paths below if you rename them)
-  3. Replace YOUR-USERNAME everywhere below (appears ~15 times) with
-     your real GitHub username.
-  4. Replace YOUR_LEETCODE_USERNAME with your LeetCode username.
-  5. Replace YOUR-LINKEDIN / YOUR-EMAIL / YOUR-PORTFOLIO-LINK near the
-     bottom with your real links.
-  6. Replace Rescue-Force-4 / AI-Learning-Platform /
-     Agricultural-Monitoring-System with the EXACT names of the public
-     repos on your GitHub for these projects — the green "pin" cards
-     only render once a public repo with that exact name exists.
-  7. Optional: add the separate snake.yml file to
-     .github/workflows/snake.yml in the same profile repo to switch on
-     the live contribution snake near the bottom.
-  ============================================
--->
+
 
 <p align="center">
   <img src="./assets/header.svg" width="100%"/>
