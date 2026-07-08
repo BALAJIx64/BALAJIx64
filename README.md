@@ -38,10 +38,9 @@
 ## 👋 About Me
 
 - 🎓 **B.E. in Computer Science and Engineering** @ Sri Ramakrishna Engineering College (SREC), Coimbatore
-- 📈 Currently holding a **9.46 CGPA** — always chasing 9.5+
-- 🧠 Deep in **DSA, Competitive Programming, and AI/ML**
+- 📈 Currently holding a **9.46 CGPA**
+- 🧠 Deep in **DSA, Competitive Programming, Full stack and AI/ML**
 - 🌍 Building projects at the intersection of **AI and real-world impact** — healthcare and agriculture so far
-- 🏆 **Ideathon Winner** — Team Base4, *Rescue Force 4*
 - 🔭 Exploring **Quantum Computing** and **Cyber Security** on the side
 
 > *"I'd rather spend an hour debugging on my own than copy a working answer — that's where the real learning happens."*
@@ -61,7 +60,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,html,css" />
 </p>
 
 <p align="center">
@@ -169,9 +168,9 @@ A smart-greenhouse concept combining computer vision (YOLO) with automated monit
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BALAJIx64/BALAJIx64/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BALAJIx64/BALAJIx64/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/BALAJIx64/BALAJIx64/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
