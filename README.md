@@ -87,11 +87,11 @@
 
 ## Data Structures & Algorithms
 
-**Data Structures:** Arrays · Strings · Stacks · Hash Maps · Sets · Matrices
+**Data Structures:** Arrays · Strings · Stacks · Sets · Matrices
 
-**Algorithms:** Dynamic Programming · Digit DP · Dijkstra's Algorithm · Bellman-Ford Algorithm · Strassen's Matrix Multiplication
+**Algorithms:** Dynamic Programming · Digit DP
 
-**Problem-Solving Focus:** Mathematical reasoning · Greedy approaches · Optimization · Pattern discovery
+**Problem-Solving Focus:** Mathematical reasoning · Optimization · Pattern discovery
 
 <details>
 <summary>A few favorite problems I've cracked</summary>
