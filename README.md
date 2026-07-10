@@ -29,6 +29,7 @@
   cinematic direction — they're tucked into a collapsible "Extended
   Stats" section near the bottom instead, so nothing is lost, just
   hidden by default. Say the word if you'd rather they stay visible.
+  CHECK
   ============================================
 -->
 
