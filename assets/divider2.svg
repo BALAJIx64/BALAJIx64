@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 4" width="900" height="4">
+  <defs>
+    <linearGradient id="scanline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      @keyframes sweep { 0% { transform: translateX(0); } 100% { transform: translateX(1020px); } }
+      .sweep { animation: sweep 5s linear infinite; }
+    </style>
+  </defs>
+  <rect width="900" height="1" y="1.5" fill="#1e293b"/>
+  <rect class="sweep" x="-120" y="0" width="120" height="4" fill="url(#scanline)"/>
+</svg>
