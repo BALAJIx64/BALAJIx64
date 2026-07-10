@@ -193,3 +193,7 @@ A smart-greenhouse concept combining computer vision (YOLO) with automated monit
   <a href="https://linkedin.com/in/balaji-c-m">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:balaji.c.m.x64@gmail.com">Email</a> &nbsp;
 </p>
+
+<p align="center">
+  <img src="./assets/divider2.svg" width="100%"/>
+</p>
