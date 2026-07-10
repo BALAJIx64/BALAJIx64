@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+  <defs>
+    <radialGradient id="heroGlow" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0a0e27"/>
+    </radialGradient>
+    <linearGradient id="underline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="orbBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="38"/>
+    </filter>
+    <style>
+      @keyframes floatBg { 0%,100% { transform: translate(0,0); } 50% { transform: translate(18px,-12px); } }
+      @keyframes floatBg2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-14px,10px); } }
+      @keyframes floatMid { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-12px,9px); } }
+      @keyframes floatFg { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+      @keyframes bounce { 0%,100% { transform: translateY(0); opacity: 0.6; } 50% { transform: translateY(6px); opacity: 1; } }
+      .orb1 { animation: floatBg 19s ease-in-out infinite; }
+      .orb2 { animation: floatBg2 23s ease-in-out infinite; }
+      .orb3 { animation: floatBg 26s ease-in-out infinite; }
+      .mid { animation: floatMid 13s ease-in-out infinite; }
+      .fg { animation: floatFg 6s ease-in-out infinite; }
+      .cue { animation: bounce 1.6s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="420" fill="url(#heroGlow)"/>
+
+  <!-- layer 1: deep background blurred orbs (slowest drift) -->
+  <g filter="url(#orbBlur)">
+    <circle class="orb1" cx="130" cy="90" r="110" fill="#3b82f6" opacity="0.20"/>
+    <circle class="orb2" cx="800" cy="330" r="130" fill="#2563eb" opacity="0.18"/>
+    <circle class="orb3" cx="760" cy="70" r="80" fill="#60a5fa" opacity="0.15"/>
+  </g>
+
+  <!-- layer 2: constellation network (medium drift) -->
+  <g class="mid" stroke="#3b82f6" stroke-opacity="0.18" stroke-width="1">
+    <line x1="60" y1="60" x2="220" y2="90"/>
+    <line x1="220" y1="90" x2="400" y2="60"/>
+    <line x1="760" y1="70" x2="840" y2="300"/>
+    <line x1="840" y1="300" x2="680" y2="340"/>
+    <line x1="120" y1="200" x2="50" y2="380"/>
+    <line x1="800" y1="180" x2="870" y2="90"/>
+    <line x1="500" y1="370" x2="680" y2="340"/>
+  </g>
+  <g class="mid" fill="#60a5fa" opacity="0.55">
+    <circle cx="60" cy="60" r="2.5"/>
+    <circle cx="220" cy="90" r="2.5"/>
+    <circle cx="400" cy="60" r="2.5"/>
+    <circle cx="760" cy="70" r="2.5"/>
+    <circle cx="840" cy="300" r="2.5"/>
+    <circle cx="680" cy="340" r="2.5"/>
+    <circle cx="120" cy="200" r="2.5"/>
+    <circle cx="50" cy="380" r="2.5"/>
+    <circle cx="800" cy="180" r="2.5"/>
+    <circle cx="870" cy="90" r="2.5"/>
+    <circle cx="500" cy="370" r="2.5"/>
+  </g>
+
+  <!-- layer 3: foreground headline (fastest, subtle float) -->
+  <g class="fg" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif">
+    <text x="450" y="150" font-size="14" letter-spacing="3" fill="#60a5fa">This is BALAJI C M</text>
+    <text x="450" y="215" font-size="44" font-weight="700" fill="#f8fafc">Building Intelligent Systems !</text>
+    <text x="450" y="252" font-size="18" fill="#94a3b8">AI/ML &#183; DSA &#183; Competitive Programming</text>
+    <rect x="390" y="275" width="120" height="3" rx="1.5" fill="url(#underline)"/>
+  </g>
+
+  <!-- scroll cue -->
+  <g class="cue" transform="translate(450,385)">
+    <path d="M -8,-5 L 0,4 L 8,-5" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
