@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190">
+  <defs>
+    <style>
+      @keyframes card0 { 0% { opacity:0; transform:translateY(40px); } 5.6% { opacity:1; transform:translateY(0); } 66.7% { opacity:1; transform:translateY(0); } 72.2% { opacity:0; transform:translateY(40px); } 100% { opacity:0; transform:translateY(40px); } }
+      @keyframes card1 { 0%,5.6% { opacity:0; transform:translateY(40px); } 11.1% { opacity:1; transform:translateY(0); } 66.7% { opacity:1; transform:translateY(0); } 72.2% { opacity:0; transform:translateY(40px); } 100% { opacity:0; transform:translateY(40px); } }
+      @keyframes card2 { 0%,11.1% { opacity:0; transform:translateY(40px); } 16.7% { opacity:1; transform:translateY(0); } 66.7% { opacity:1; transform:translateY(0); } 72.2% { opacity:0; transform:translateY(40px); } 100% { opacity:0; transform:translateY(40px); } }
+      @keyframes card3 { 0%,16.7% { opacity:0; transform:translateY(40px); } 22.2% { opacity:1; transform:translateY(0); } 66.7% { opacity:1; transform:translateY(0); } 72.2% { opacity:0; transform:translateY(40px); } 100% { opacity:0; transform:translateY(40px); } }
+      .c0 { animation: card0 9s ease-out infinite; }
+      .c1 { animation: card1 9s ease-out infinite; }
+      .c2 { animation: card2 9s ease-out infinite; }
+      .c3 { animation: card3 9s ease-out infinite; }
+      .stat { font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; fill: #f8fafc; }
+      .label { font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+    </style>
+  </defs>
+
+  <g class="c0">
+    <rect x="14" y="20" width="200" height="130" rx="16" fill="#111a33" stroke="#3b82f6" stroke-opacity="0.28"/>
+    <text x="114" y="90" text-anchor="middle" font-size="30" class="stat">9.46</text>
+    <text x="114" y="118" text-anchor="middle" font-size="13" class="label">CGPA</text>
+  </g>
+
+  <g class="c1">
+    <rect x="238" y="20" width="200" height="130" rx="16" fill="#111a33" stroke="#3b82f6" stroke-opacity="0.28"/>
+    <text x="338" y="90" text-anchor="middle" font-size="30" class="stat">129+</text>
+    <text x="338" y="118" text-anchor="middle" font-size="13" class="label">LeetCode Solved</text>
+  </g>
+
+  <g class="c2">
+    <rect x="462" y="20" width="200" height="130" rx="16" fill="#111a33" stroke="#3b82f6" stroke-opacity="0.28"/>
+    <text x="562" y="90" text-anchor="middle" font-size="30" class="stat">&#127942;</text>
+    <text x="562" y="118" text-anchor="middle" font-size="13" class="label">Ideathon Winner</text>
+  </g>
+
+  <g class="c3">
+    <rect x="686" y="20" width="200" height="130" rx="16" fill="#111a33" stroke="#3b82f6" stroke-opacity="0.28"/>
+    <text x="786" y="90" text-anchor="middle" font-size="28" class="stat">AI/ML</text>
+    <text x="786" y="118" text-anchor="middle" font-size="13" class="label">Core Focus</text>
+  </g>
+</svg>
