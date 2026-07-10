@@ -62,7 +62,7 @@
 
   <!-- layer 3: foreground headline (fastest, subtle float) -->
   <g class="fg" text-anchor="middle" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif">
-    <text x="450" y="150" font-size="14" letter-spacing="3" fill="#60a5fa">COMPUTER SCIENCE ENGINEER</text>
+    <text x="450" y="150" font-size="14" letter-spacing="3" fill="#60a5fa">This is BALAJI C M</text>
     <text x="450" y="215" font-size="44" font-weight="700" fill="#f8fafc">Building Intelligent Systems</text>
     <text x="450" y="252" font-size="18" fill="#94a3b8">AI/ML &#183; DSA &#183; Competitive Programming</text>
     <rect x="390" y="275" width="120" height="3" rx="1.5" fill="url(#underline)"/>
