@@ -33,9 +33,9 @@
   ============================================
 -->
 
-<!-- <p align="center">
+<p align="center">
   <img src="./assets/hero.svg" width="100%"/>
-</p> -->
+</p>
 
 <p align="center">
   <img src="./assets/cards.svg" width="100%"/>
