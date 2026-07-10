@@ -1,4 +1,5 @@
-[README (3).md](https://github.com/user-attachments/files/29870553/README.3.md)<!--
+
+<!--
   ============================================
   QUICK SETUP CHECKLIST — do this before you publish
   ============================================
@@ -74,8 +75,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-YOLO-111a33?style=flat-square&labelColor=0a0e27&color=3b82f6" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-111a33?style=flat-square&labelColor=0a0e27&color=3b82f6" />
+  <!-- <img src="https://img.shields.io/badge/Computer%20Vision-YOLO-111a33?style=flat-square&labelColor=0a0e27&color=3b82f6" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111a33?style=flat-square&labelColor=0a0e27&color=3b82f6" /> -->
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111a33?style=flat-square&labelColor=0a0e27&color=3b82f6" />
 </p>
 
@@ -105,7 +106,7 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/pascal2.svg" width="100%"/>
 </p>
 
@@ -113,7 +114,7 @@
 
 <p align="center">
   <img src="./assets/divider2.svg" width="100%"/>
-</p>
+</p> -->
 
 ## Featured Projects
 
@@ -124,23 +125,11 @@ Solves the real-world problem of ambulance delays caused by traffic congestion.
 - Shortest-route suggestions for ambulances
 - Emergency response optimization
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=Rescue-Force-4&theme=tokyonight&hide_border=true" />
-</p>
-
 ### AI-Assisted Learning Platform — GenAI 18-Hour Hackathon
 Makes biotechnology concepts easier to learn through AI-generated, personalized educational content.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=AI-Learning-Platform&theme=tokyonight&hide_border=true" />
-</p>
-
 ### Agricultural Monitoring System — In Progress
 A smart-greenhouse concept combining computer vision (YOLO) with automated monitoring — starting with curry-leaf disease detection and PTZ camera-based crop tracking.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=Agricultural-Monitoring-System&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="./assets/divider2.svg" width="100%"/>
@@ -152,8 +141,6 @@ A smart-greenhouse concept combining computer vision (YOLO) with automated monit
 |---|---|
 | 🥇 **Ideathon Winner** — 1st Place | *Rescue Force 4* (Team Base4) — Smart Ambulance Routing & Hospital Availability System |
 | 🧬 **GenAI Hackathon** (18-hour) | Built an AI-assisted Biotechnology Learning Platform |
-| 🥈 **Science Hunt** — 2nd Place | Institutional science competition |
-| 🧩 **Institutional Coding Contest** — 1st Place | Solved 5/5 problems · 150 points · topped the offline round |
 | 🥇 **HackerRank** — Gold Badge | Python and C programming |
 
 <br>
@@ -163,35 +150,35 @@ A smart-greenhouse concept combining computer vision (YOLO) with automated monit
 <br>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo+2&ext=activity" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/BALAJI_C_M?theme=dark&font=Baloo+2&ext=activity" alt="LeetCode Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BALAJI_C_M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI_C_M&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=BALAJIx64&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BALAJIx64&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALAJIx64&theme=tokyo-night&hide_border=true" width="90%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BALAJIx64/BALAJIx64/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BALAJIx64/BALAJIx64/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/BALAJIx64/BALAJIx64/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-<p align="center"><sub>Snake needs the separate <code>snake.yml</code> workflow added to <code>.github/workflows/</code> to activate.</sub></p>
+<p align="center"><sub>Snake needs the separate <code>snake.yml</code> workflow added to <code>.github/workflows/</code> to activate.</sub></p> -->
 
 </details>
 
@@ -202,7 +189,6 @@ A smart-greenhouse concept combining computer vision (YOLO) with automated monit
 ## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://YOUR-PORTFOLIO-LINK">Portfolio</a>
+  <a href="https://linkedin.com/in/balaji-c-m">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:balaji.c.m.x64@gmail.com">Email</a> &nbsp;
 </p>
