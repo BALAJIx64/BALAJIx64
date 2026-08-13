@@ -37,9 +37,9 @@
   <img src="./assets/hero.svg" width="100%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/cards.svg" width="100%"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="./assets/divider2.svg" width="100%"/>
