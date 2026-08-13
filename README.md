@@ -57,13 +57,6 @@
 
 <br>
 
-<p align="center">
-
-| Semester 1 | Semester 2 | Current CGPA |
-|:---:|:---:|:---:|
-| 9.24 | 9.70 | **9.46** |
-
-</p>
 
 <p align="center">
   <img src="./assets/divider2.svg" width="100%"/>
